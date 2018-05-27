@@ -18,3 +18,43 @@ media_player.sonia:
   name:
   platform: cast
   unique_id: 847adf2c-3a98-9c76-408e-6a7e243fc434
+light.kitchen_2:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:5c:c8:e4-0b
+light.upstairs_1:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:1f:4f:d0-0b
+light.kitchen_1:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:5c:d5:f5-0b
+light.kitchen_5:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:5c:d6:ad-0b
+light.kitchen_3:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:5c:ce:61-0b
+light.kitchen_6:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:5c:c7:2e-0b
+light.kitchen_4:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:5c:c3:15-0b
+light.entry_light:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:1e:04:d5-0b
+light.upstairs_2:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:1e:ef:ee-0b
+light.upstairs_3:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:76:46:4e-0b
