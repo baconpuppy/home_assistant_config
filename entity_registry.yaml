@@ -1,0 +1,20 @@
+media_player.living_room_speaker:
+  name:
+  platform: cast
+  unique_id: 7f159ec9-e5c3-9ab7-7007-6d26d81f3521
+media_player.master_bedroom_speaker:
+  name:
+  platform: cast
+  unique_id: fe4e6391-741a-59df-2973-cf2df860bfe4
+media_player.office_speaker:
+  name:
+  platform: cast
+  unique_id: da20a03c-d9e1-3736-18d3-0ecd6bf3d5a7
+media_player.kitchen_home:
+  name:
+  platform: cast
+  unique_id: de0ffb20-6696-f855-ea59-913118fc98c6
+media_player.sonia:
+  name:
+  platform: cast
+  unique_id: 847adf2c-3a98-9c76-408e-6a7e243fc434
